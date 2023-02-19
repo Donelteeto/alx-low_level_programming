@@ -24,7 +24,7 @@ int main(void)
 	{
 		printf("and is 0");
 	}
-	if (c < 6 && x != 0)
+	if (c < 6 && c != 0)
 	{
 		printf("and is less than 6 and not 0");
 	}
