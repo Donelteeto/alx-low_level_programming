@@ -3,7 +3,7 @@
 /**
  * main - program that prints alphabet in lowercase
  *
- * Return: 0 upon success
+ * Return: 0 if successful
  */
 
 int main(void)
@@ -11,8 +11,8 @@ int main(void)
 {
 	char i;
 
-	for (i = 'a'; i <= 'z'; i++)
+	for (i = 'a' ; i <= 'z' ; i++)
 		putchar(i);
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
