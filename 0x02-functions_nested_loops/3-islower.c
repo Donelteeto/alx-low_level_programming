@@ -2,8 +2,9 @@
 
 /**
  * _islower - prints lower case
+ * @c: parameter to be printed
  *
- * Return: 1 if its a lowercase and 0 if otherwise
+ * Return: 1 if its a lowercase or 0 if otherwise
  */
 
 int _islower(int c)
