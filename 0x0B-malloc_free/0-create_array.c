@@ -1,9 +1,8 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
 
 
-/*
+/**
  * create_array - function that creates an array of characters
  * @size: size of the memory to print
  * @c: address of char/memory to print
